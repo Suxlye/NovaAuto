@@ -1,0 +1,2123 @@
+{
+  "pads": {
+    "title": "File:Automobile brake pad.jpg",
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Automobile_brake_pad.jpg/960px-Automobile_brake_pad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 600,
+    "thumbheight": 589,
+    "responsiveUrls": {
+      "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Automobile_brake_pad.jpg/1280px-Automobile_brake_pad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    "thumbattribs": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Automobile_brake_pad.jpg/960px-Automobile_brake_pad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 600,
+      "height": 589,
+      "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Automobile_brake_pad.jpg/1280px-Automobile_brake_pad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Automobile_brake_pad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Automobile_brake_pad.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=47781594",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2016-03-26 17:49:42",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Automobile brake pad",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Sony ILCE-5000|Self-published work|2016 in Jyväskylä|Finland photographs taken on 2016-03-21|Automobile disk brakes",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Brake pad of an automobile.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2016-03-21 16:23:47",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kulmalukko\" title=\"User:Kulmalukko\">Tiia Monto</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "disc": {
+    "title": "File:Stopping power (32804787015).jpg",
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Stopping_power_%2832804787015%29.jpg/960px-Stopping_power_%2832804787015%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 600,
+    "thumbheight": 346,
+    "responsiveUrls": {
+      "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Stopping_power_%2832804787015%29.jpg/1280px-Stopping_power_%2832804787015%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    "thumbattribs": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Stopping_power_%2832804787015%29.jpg/960px-Stopping_power_%2832804787015%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 600,
+      "height": 346,
+      "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Stopping_power_%2832804787015%29.jpg/1280px-Stopping_power_%2832804787015%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Stopping_power_%2832804787015%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Stopping_power_(32804787015).jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92860020",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2020-08-04 01:51:09",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Stopping power (32804787015)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Brake disks|Flickr images reviewed by FlickreviewR 2|Uploads by Killarnee|Files from Paulius Malinovskis Flickr stream",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "With great horse power one needs a good stopping power too.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2015-11-07 16:12",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/134741223@N04/32804787015/\">Stopping power</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/134741223@N04\">Paulius Malinovskis</a> from Uppsala, Sweden",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "oilFilter": {
+    "title": "File:Olejový filtr s těsněním.jpg",
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Olejov%C3%BD_filtr_s_t%C4%9Bsn%C4%9Bn%C3%ADm.jpg/960px-Olejov%C3%BD_filtr_s_t%C4%9Bsn%C4%9Bn%C3%ADm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 600,
+    "thumbheight": 450,
+    "responsiveUrls": {
+      "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Olejov%C3%BD_filtr_s_t%C4%9Bsn%C4%9Bn%C3%ADm.jpg/1280px-Olejov%C3%BD_filtr_s_t%C4%9Bsn%C4%9Bn%C3%ADm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    "thumbattribs": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Olejov%C3%BD_filtr_s_t%C4%9Bsn%C4%9Bn%C3%ADm.jpg/960px-Olejov%C3%BD_filtr_s_t%C4%9Bsn%C4%9Bn%C3%ADm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 600,
+      "height": 450,
+      "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Olejov%C3%BD_filtr_s_t%C4%9Bsn%C4%9Bn%C3%ADm.jpg/1280px-Olejov%C3%BD_filtr_s_t%C4%9Bsn%C4%9Bn%C3%ADm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Olejov%C3%BD_filtr_s_t%C4%9Bsn%C4%9Bn%C3%ADm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Olejov%C3%BD_filtr_s_t%C4%9Bsn%C4%9Bn%C3%ADm.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128042877",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2023-01-23 19:52:42",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Olejový filtr s těsněním",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Oil filters|Self-published work|Olejový filtr",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Olejový filtr s těsněním",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2017-05-26 15:01:49",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Votoncz&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Votoncz (page does not exist)\">Voton.cz autodíly</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "airFilter": {
+    "title": "File:Air filter for Toyota 1KR-FE.jpg",
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Air_filter_for_Toyota_1KR-FE.jpg/960px-Air_filter_for_Toyota_1KR-FE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 600,
+    "thumbheight": 400,
+    "responsiveUrls": {
+      "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Air_filter_for_Toyota_1KR-FE.jpg/1280px-Air_filter_for_Toyota_1KR-FE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    "thumbattribs": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Air_filter_for_Toyota_1KR-FE.jpg/960px-Air_filter_for_Toyota_1KR-FE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 600,
+      "height": 400,
+      "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Air_filter_for_Toyota_1KR-FE.jpg/1280px-Air_filter_for_Toyota_1KR-FE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Air_filter_for_Toyota_1KR-FE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Air_filter_for_Toyota_1KR-FE.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31092600",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2014-02-10 08:26:52",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Air filter for Toyota 1KR-FE",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Automobile engine air filters",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Air filter for Toyota 1KR-FE engine",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2014-02-10 13:51:46",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ilya_p\" title=\"User:Ilya p\">Ilya Plekhanov</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "sparkPlug": {
+    "title": "File:NGK-plugs.jpg",
+    "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/75/NGK-plugs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumbwidth": 600,
+    "thumbheight": 722,
+    "thumbattribs": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/NGK-plugs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 600,
+      "height": 722
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/NGK-plugs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:NGK-plugs.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11659202",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2010-10-02 16:00:08",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "NGK-plugs",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Spark plugs|NGK Spark Plug Co.|Attribution only license",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "NGK spark plugs",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2010-07",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span> (<span lang=\"en\" dir=\"ltr\">Original text: <i><bdi lang=\"\">I created this work entirely by myself.</bdi></i></span>)",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/User:rR69S\" class=\"extiw\" title=\"en:User:rR69S\">en:User:rR69S</a> (<a href=\"https://en.wikipedia.org/wiki/User_talk:r69s\" class=\"extiw\" title=\"en:User talk:r69s\">talk</a>)",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "()",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Attribution",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "timingBelt": {
+    "title": "File:Timing belt RB30E.jpg",
+    "thumburl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Timing_belt_RB30E.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumbwidth": 600,
+    "thumbheight": 763,
+    "thumbattribs": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Timing_belt_RB30E.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 600,
+      "height": 763
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Timing_belt_RB30E.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Timing_belt_RB30E.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2167896",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2007-05-28 10:08:05",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Timing belt RB30E",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Fujifilm FinePix S3000|Nissan RB engines|Timing belts (camshaft)|Self-published work|PD-self",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Timing Belt with covers off, Nissan RB30E Engine",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2007-04-04",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:RB30DE&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:RB30DE (page does not exist)\">RB30DE</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "shock": {
+    "title": "File:Damper 1.jpg",
+    "thumburl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Damper_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumbwidth": 600,
+    "thumbheight": 788,
+    "thumbattribs": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Damper_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 600,
+      "height": 788
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Damper_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Damper_1.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=886414",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2006-06-22 16:34:53",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Damper 1",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|CC-BY-SA-2.5,2.0,1.0|Files with no machine-readable source|License migration redundant|Telescopic shock absorbers|Self-published work|Assumed own work|Gas dampers",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Gas Damper of car",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "22 June 2006 (original upload date)",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "No machine-readable author provided. <a href=\"//commons.wikimedia.org/w/index.php?title=User:TEy~commonswiki&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:TEy~commonswiki (page does not exist)\">TEy~commonswiki</a> assumed (based on copyright claims).",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "tieRod": {
+    "title": "File:Tie rod end.jpeg",
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Tie_rod_end.jpeg/960px-Tie_rod_end.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 600,
+    "thumbheight": 562,
+    "responsiveUrls": {
+      "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Tie_rod_end.jpeg/1280px-Tie_rod_end.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    "thumbattribs": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Tie_rod_end.jpeg/960px-Tie_rod_end.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 600,
+      "height": 562,
+      "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Tie_rod_end.jpeg/1280px-Tie_rod_end.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Tie_rod_end.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tie_rod_end.jpeg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150004568",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2024-07-04 09:21:56",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Tie rod end",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Automobile parts|Extracted images|Track rod end|Ball joint|Rubber boot|Tie rod end",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "New upper and lower ball joints, tie rod ends, boots, shocks and brake pads.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2009-05-07 18:15",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/seat850/3517829024/\">New upper and lower ball joints, tie rod ends, boots, shocks and brake pads.</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/78317199@N00\">Craig Howell</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "battery": {
+    "title": "File:Lead-acid automotive battery, 55 Ah.jpg",
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Lead-acid_automotive_battery%2C_55_Ah.jpg/960px-Lead-acid_automotive_battery%2C_55_Ah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 600,
+    "thumbheight": 511,
+    "responsiveUrls": {
+      "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Lead-acid_automotive_battery%2C_55_Ah.jpg/1280px-Lead-acid_automotive_battery%2C_55_Ah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    "thumbattribs": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Lead-acid_automotive_battery%2C_55_Ah.jpg/960px-Lead-acid_automotive_battery%2C_55_Ah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 600,
+      "height": 511,
+      "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Lead-acid_automotive_battery%2C_55_Ah.jpg/1280px-Lead-acid_automotive_battery%2C_55_Ah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Lead-acid_automotive_battery%2C_55_Ah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lead-acid_automotive_battery,_55_Ah.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=90832631",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2020-05-31 16:58:02",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Lead-acid automotive battery, 55 Ah",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Images with extracted images|Pictures by Cjp24|Lead-acid batteries with 55 Ah capacity",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Batterie d'automobile, N° 3, tension 12 V, capacité 55 Ah, courant de démarrage 460 A, dim. : 242 × 175 × 190 mm, munie d'une poignée, de 2010.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2020-05-19 17:30:37",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Cjp24\" title=\"User:Cjp24\">Cjp24</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "bulb": {
+    "title": "File:H4 Philips Premium used.JPG",
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/H4_Philips_Premium_used.JPG/960px-H4_Philips_Premium_used.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 600,
+    "thumbheight": 900,
+    "responsiveUrls": {
+      "2": "https://upload.wikimedia.org/wikipedia/commons/b/bf/H4_Philips_Premium_used.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    "thumbattribs": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/H4_Philips_Premium_used.JPG/960px-H4_Philips_Premium_used.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 600,
+      "height": 900,
+      "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/bf/H4_Philips_Premium_used.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/H4_Philips_Premium_used.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:H4_Philips_Premium_used.JPG",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8483969",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2009-11-18 21:53:52",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "H4 Philips Premium used",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|Taken with Canon EOS 450D|Light bulb filaments|License migration redundant|Self-published work|Headlamp bulbs",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "A used Philips Premium H4 12V 60W/55W automotive lamp. The low-beam filament has lost particles from the surface because it has been used for several months if not years.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2009-11-18",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:MattiPaavola\" title=\"User:MattiPaavola\">MattiPaavola</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "clutch": {
+    "title": "File:Clutch disc.JPG",
+    "thumburl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Clutch_disc.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumbwidth": 600,
+    "thumbheight": 450,
+    "thumbattribs": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Clutch_disc.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 600,
+      "height": 450
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Clutch_disc.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Clutch_disc.JPG",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1233308",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2006-10-01 11:57:03",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Clutch disc",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|Taken with Fujifilm FinePix 2300|CC-BY-SA-2.5,2.0,1.0|License migration redundant|Self-published work|Automobile clutches|Friction plate clutches",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Clutch disk for Mitsubishi 4G63.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2004-02-11",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:100yen\" title=\"User:100yen\">100yen</a> 11:57, 1 October 2006 (UTC)",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:100yen\" title=\"User:100yen\">100yen</a> 11:57, 1 October 2006 (UTC)",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:100yen\" title=\"User:100yen\">100yen</a> 11:57, 1 October 2006 (UTC)",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "cvJoint": {
+    "title": "File:CV joint half axle.jpg",
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/CV_joint_half_axle.jpg/960px-CV_joint_half_axle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 600,
+    "thumbheight": 450,
+    "responsiveUrls": {
+      "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/CV_joint_half_axle.jpg/1280px-CV_joint_half_axle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    "thumbattribs": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/CV_joint_half_axle.jpg/960px-CV_joint_half_axle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 600,
+      "height": 450,
+      "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/CV_joint_half_axle.jpg/1280px-CV_joint_half_axle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/CV_joint_half_axle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:CV_joint_half_axle.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6523097",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2009-04-14 21:34:00",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "CV joint half axle",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Sony DSC-P73|Constant-velocity joints|Self-published work|PD-self",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "CV joint on half axle.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2009-04-14",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Digital camera",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:BiH\" title=\"User:BiH\">BiH</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "radiator": {
+    "title": "File:Automobile radiator.jpg",
+    "thumburl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Automobile_radiator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumbwidth": 600,
+    "thumbheight": 681,
+    "thumbattribs": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Automobile_radiator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 600,
+      "height": 681
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Automobile_radiator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Automobile_radiator.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=827384",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2006-05-31 23:42:52",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Automobile radiator",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Fujifilm FinePix S602 ZOOM|GPL|PD-user|Radiators (engine cooling)|Files with no machine-readable author|Files with no machine-readable source|Media missing infobox template",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "coolant": {
+    "title": "File:Antifreeze.jpg",
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Antifreeze.jpg/960px-Antifreeze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 600,
+    "thumbheight": 750,
+    "responsiveUrls": {
+      "2": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Antifreeze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    "thumbattribs": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Antifreeze.jpg/960px-Antifreeze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 600,
+      "height": 750,
+      "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Antifreeze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Antifreeze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Antifreeze.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10592678",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2010-06-09 16:27:38",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Antifreeze",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Kodak EasyShare M753|Antifreeze|Prestone (brand)|Flickr images reviewed by FlickreviewR|Flickr images missing SDC published in",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "A plastic bottle containing ethylene glycol antifreeze",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2009-12-07",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/dno1967/4167488466/\">https://www.flickr.com/photos/dno1967/4167488466/</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "dno1967",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "atf": {
+    "title": "File:ATF Automatic transmission fluid Dextron III.JPG",
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/ATF_Automatic_transmission_fluid_Dextron_III.JPG/960px-ATF_Automatic_transmission_fluid_Dextron_III.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 600,
+    "thumbheight": 450,
+    "responsiveUrls": {
+      "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/ATF_Automatic_transmission_fluid_Dextron_III.JPG/1280px-ATF_Automatic_transmission_fluid_Dextron_III.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    "thumbattribs": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/ATF_Automatic_transmission_fluid_Dextron_III.JPG/960px-ATF_Automatic_transmission_fluid_Dextron_III.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 600,
+      "height": 450,
+      "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/ATF_Automatic_transmission_fluid_Dextron_III.JPG/1280px-ATF_Automatic_transmission_fluid_Dextron_III.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/ATF_Automatic_transmission_fluid_Dextron_III.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ATF_Automatic_transmission_fluid_Dextron_III.JPG",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22617306",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2012-11-10 11:14:16",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "ATF Automatic transmission fluid Dextron III",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Automatic transmission fluid|Self-published work|Plastic oilcans",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "ATF Automatic transmission fluid Dextron III",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2012-11-10 22:15:16",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Andshel\" title=\"User:Andshel\">Andshel</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "cabinFilter": {
+    "title": "File:Autobacs Pro Air conditioner filter H-0001.jpg",
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Autobacs_Pro_Air_conditioner_filter_H-0001.jpg/960px-Autobacs_Pro_Air_conditioner_filter_H-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 600,
+    "thumbheight": 451,
+    "responsiveUrls": {
+      "2": "https://upload.wikimedia.org/wikipedia/commons/8/89/Autobacs_Pro_Air_conditioner_filter_H-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    "thumbattribs": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Autobacs_Pro_Air_conditioner_filter_H-0001.jpg/960px-Autobacs_Pro_Air_conditioner_filter_H-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 600,
+      "height": 451,
+      "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/89/Autobacs_Pro_Air_conditioner_filter_H-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Autobacs_Pro_Air_conditioner_filter_H-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Autobacs_Pro_Air_conditioner_filter_H-0001.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5077793",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2008-10-27 11:27:33",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Autobacs Pro Air conditioner filter H-0001",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|CC-BY-SA-3.0,2.5,2.0,1.0|Autobacs Seven|Automobile air conditioners|License migration redundant|Self-published work|Cabin filters",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Autobacks Pro Air Conditioner Filter H-0001.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2008-10-25",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Qurren\" title=\"User:Qurren\">Qurren</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Qurren\" title=\"User talk:Qurren\"><span class=\"signature-talk\">talk</span></a>)'s file",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Photographed by <a href=\"//commons.wikimedia.org/wiki/User:Qurren\" title=\"User:Qurren\">Qurren</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Qurren\" title=\"User talk:Qurren\"><span class=\"signature-talk\">talk</span></a>), with <i>IXY Digital 10</i> compact digital camera.",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "wiper": {
+    "title": "File:Car windshield wiper displayed.jpg",
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Car_windshield_wiper_displayed.jpg/960px-Car_windshield_wiper_displayed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 600,
+    "thumbheight": 899,
+    "responsiveUrls": {
+      "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Car_windshield_wiper_displayed.jpg/1280px-Car_windshield_wiper_displayed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    "thumbattribs": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Car_windshield_wiper_displayed.jpg/960px-Car_windshield_wiper_displayed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 600,
+      "height": 899,
+      "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Car_windshield_wiper_displayed.jpg/1280px-Car_windshield_wiper_displayed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Car_windshield_wiper_displayed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Car_windshield_wiper_displayed.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=189822826",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2026-04-20 07:48:13",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Car windshield wiper displayed",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Windshield wipers|Self-published work",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "A car's windshield wiper stands upright while parked at a service station on a sunny day. The background features greenery and flower planters, emphasizing a calm suburban setting.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2022-07-28 18:57:25",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Shixart1985\" title=\"User:Shixart1985\">Shixart1985</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "brakeFluid": {
+    "title": "File:Líquido para frenos Bardahl DOT 3, 1000cc.jpg",
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/L%C3%ADquido_para_frenos_Bardahl_DOT_3%2C_1000cc.jpg/960px-L%C3%ADquido_para_frenos_Bardahl_DOT_3%2C_1000cc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 600,
+    "thumbheight": 800,
+    "responsiveUrls": {
+      "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/L%C3%ADquido_para_frenos_Bardahl_DOT_3%2C_1000cc.jpg/1280px-L%C3%ADquido_para_frenos_Bardahl_DOT_3%2C_1000cc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    "thumbattribs": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/L%C3%ADquido_para_frenos_Bardahl_DOT_3%2C_1000cc.jpg/960px-L%C3%ADquido_para_frenos_Bardahl_DOT_3%2C_1000cc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 600,
+      "height": 800,
+      "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/L%C3%ADquido_para_frenos_Bardahl_DOT_3%2C_1000cc.jpg/1280px-L%C3%ADquido_para_frenos_Bardahl_DOT_3%2C_1000cc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/L%C3%ADquido_para_frenos_Bardahl_DOT_3%2C_1000cc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:L%C3%ADquido_para_frenos_Bardahl_DOT_3,_1000cc.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=149452377",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2024-06-16 19:33:18",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Líquido para frenos Bardahl DOT 3, 1000cc",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Brake fluid|Self-published work|Bardahl products",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Bardahl brake fluid DOT 3, 1000cc.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2023-10-13 19:04:46",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Just_a_Man\" title=\"User:Just a Man\">Just a Man</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "bearing": {
+    "title": "File:Ball bearing.jpg",
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Ball_bearing.jpg/960px-Ball_bearing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 600,
+    "thumbheight": 586,
+    "responsiveUrls": {
+      "2": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Ball_bearing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    "thumbattribs": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Ball_bearing.jpg/960px-Ball_bearing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 600,
+      "height": 586,
+      "srcset": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Ball_bearing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Ball_bearing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ball_bearing.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1111544",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2006-08-29 16:32:11",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Ball bearing",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|Ball bearings|License migration completed",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Ball Bearing / Rillenkugellager",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2006-08-29",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Solaris2006&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Solaris2006 (page does not exist)\">Solaris2006</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "waterPump": {
+    "title": "File:Pompa wody2.jpg",
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Pompa_wody2.jpg/960px-Pompa_wody2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 600,
+    "thumbheight": 339,
+    "responsiveUrls": {
+      "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Pompa_wody2.jpg/1280px-Pompa_wody2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    "thumbattribs": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Pompa_wody2.jpg/960px-Pompa_wody2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 600,
+      "height": 339,
+      "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Pompa_wody2.jpg/1280px-Pompa_wody2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Pompa_wody2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pompa_wody2.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2098965",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2007-05-12 21:14:09",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Pompa wody2",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Water pumps|GFDL|Centrifugal pumps|CC-BY-SA-2.5,2.0,1.0|Engine cooling|License migration redundant|Self-published work|Photographs taken on 2007-05-11|TTM PMS MTP Poznań 2007",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Car water pump",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2007-05-11",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Maly_LOLek\" title=\"User:Maly LOLek\">Maly LOLek</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "oil": {
+    "title": "File:Motor oil.JPG",
+    "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Motor_oil.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumbwidth": 600,
+    "thumbheight": 836,
+    "thumbattribs": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/Motor_oil.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 600,
+      "height": 836
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Motor_oil.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Motor_oil.JPG",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7588746",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2022-09-27 14:17:06",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Motor oil",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Images with annotations|Self-published work|PD-self|Plastic oilcans|Mobil motor oil|Motor oil cans",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Motor oil, Mobil 1 bottle blocked out",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "originally uploaded Feb. 26, 2006; retouched uploaded April 24, 2009",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Edited from <a href=\"//commons.wikimedia.org/wiki/File:Motor_oil.jpg\" class=\"mw-redirect\" title=\"File:Motor oil.jpg\">this image</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "originally <a href=\"//commons.wikimedia.org/w/index.php?title=User:Interiot&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Interiot (page does not exist)\">Interiot</a>; retouched by <a href=\"//commons.wikimedia.org/wiki/User:Where_next_Columbus%3F\" title=\"User:Where next Columbus?\">Where next Columbus?</a>; brand name removed by <a href=\"//commons.wikimedia.org/wiki/User:H_Padleckas\" title=\"User:H Padleckas\">H Padleckas</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "Licensing remains same as before in original image.",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "alternator": {
+    "title": "File:Alternator.jpg",
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Alternator.jpg/960px-Alternator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 600,
+    "thumbheight": 400,
+    "responsiveUrls": {
+      "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Alternator.jpg/1280px-Alternator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    "thumbattribs": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Alternator.jpg/960px-Alternator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 600,
+      "height": 400,
+      "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Alternator.jpg/1280px-Alternator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Alternator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alternator.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=33132961",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2014-06-01 15:28:43",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Alternator",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Chevrolet C/K (1988)|Automobile alternators|Self-published work|Truck parts",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "An alternator for a 1993 Chevy Silverado 1500.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2009-05-29 13:36:30",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Angelsharum\" title=\"User:Angelsharum\">Angelsharum</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "belt": {
+    "title": "File:Front of engine, serpentine belt, turbos, waste gates and air ducts, (7996565681).jpg",
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Front_of_engine%2C_serpentine_belt%2C_turbos%2C_waste_gates_and_air_ducts%2C_%287996565681%29.jpg/960px-Front_of_engine%2C_serpentine_belt%2C_turbos%2C_waste_gates_and_air_ducts%2C_%287996565681%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 600,
+    "thumbheight": 450,
+    "responsiveUrls": {
+      "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Front_of_engine%2C_serpentine_belt%2C_turbos%2C_waste_gates_and_air_ducts%2C_%287996565681%29.jpg/1280px-Front_of_engine%2C_serpentine_belt%2C_turbos%2C_waste_gates_and_air_ducts%2C_%287996565681%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    "thumbattribs": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Front_of_engine%2C_serpentine_belt%2C_turbos%2C_waste_gates_and_air_ducts%2C_%287996565681%29.jpg/960px-Front_of_engine%2C_serpentine_belt%2C_turbos%2C_waste_gates_and_air_ducts%2C_%287996565681%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 600,
+      "height": 450,
+      "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Front_of_engine%2C_serpentine_belt%2C_turbos%2C_waste_gates_and_air_ducts%2C_%287996565681%29.jpg/1280px-Front_of_engine%2C_serpentine_belt%2C_turbos%2C_waste_gates_and_air_ducts%2C_%287996565681%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Front_of_engine%2C_serpentine_belt%2C_turbos%2C_waste_gates_and_air_ducts%2C_%287996565681%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Front_of_engine,_serpentine_belt,_turbos,_waste_gates_and_air_ducts,_(7996565681).jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22800247",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2012-11-21 15:02:02",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Front of engine, serpentine belt, turbos, waste gates and air ducts, (7996565681)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Canon PowerShot A530|Flickr images reviewed by File Upload Bot (Magnus Manske)|Photographs by Bill Abbott|Tamiya models of Porsche 911 GT1|Uploaded by FAEP using flickr2commons/photoset 72157615091002482",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<p>IMG_0056\n</p>\ncropped",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2012-09-01 10:31",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<p><a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/wbaiv/7996565681/\">Front of engine, serpentine belt, turbos, waste gates and air ducts,</a>\n</p>\n<ul><li>Uploaded by <a href=\"//commons.wikimedia.org/wiki/User:FAEP\" title=\"User:FAEP\">FAEP</a></li></ul>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/9998127@N06\">Bill Abbott</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  }
+}
