@@ -1,0 +1,211 @@
+// Fotografías de referencia. Autoría y licencias disponibles en la página de créditos.
+export const partImages = {
+  'NA-0001': {
+    file: 'images/parts/pads.jpg',
+    alt: 'Pastillas de freno',
+    source: 'https://commons.wikimedia.org/wiki/File:Automobile_brake_pad.jpg',
+    author: 'Tiia Monto',
+    license: 'CC BY-SA 4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0',
+  },
+  'NA-0002': {
+    file: 'images/parts/disc.jpg',
+    alt: 'Discos de freno',
+    source:
+      'https://commons.wikimedia.org/wiki/File:Stopping_power_(32804787015).jpg',
+    author: 'Paulius Malinovskis from Uppsala, Sweden',
+    license: 'CC BY 2.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by/2.0',
+  },
+  'NA-0003': {
+    file: 'images/parts/brakeFluid.jpg',
+    alt: 'Envase de líquido de frenos',
+    source:
+      'https://commons.wikimedia.org/wiki/File:L%C3%ADquido_para_frenos_Bardahl_DOT_3,_1000cc.jpg',
+    author: 'Just a Man',
+    license: 'CC BY 4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by/4.0',
+  },
+  'NA-0004': {
+    file: 'images/parts/oilFilter.jpg',
+    alt: 'Filtro de aceite',
+    source:
+      'https://commons.wikimedia.org/wiki/File:Olejov%C3%BD_filtr_s_t%C4%9Bsn%C4%9Bn%C3%ADm.jpg',
+    author: 'Voton.cz autodíly',
+    license: 'CC BY-SA 4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0',
+  },
+  'NA-0005': {
+    file: 'images/parts/airFilter.jpg',
+    alt: 'Filtro de aire',
+    source:
+      'https://commons.wikimedia.org/wiki/File:Air_filter_for_Toyota_1KR-FE.jpg',
+    author: 'Ilya Plekhanov',
+    license: 'CC BY-SA 3.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0',
+  },
+  'NA-0006': {
+    file: 'images/parts/sparkPlug.jpg',
+    alt: 'Bujías NGK',
+    source: 'https://commons.wikimedia.org/wiki/File:NGK-plugs.jpg',
+    author: 'en:User:rR69S (talk)',
+    license: 'Attribution',
+    licenseUrl: 'https://commons.wikimedia.org/wiki/File:NGK-plugs.jpg',
+  },
+  'NA-0007': {
+    file: 'images/parts/timingBelt.jpg',
+    alt: 'Correa de distribución montada en un motor',
+    source: 'https://commons.wikimedia.org/wiki/File:Timing_belt_RB30E.jpg',
+    author: 'RB30DE',
+    license: 'Public domain',
+    licenseUrl: 'https://commons.wikimedia.org/wiki/File:Timing_belt_RB30E.jpg',
+  },
+  'NA-0008': {
+    file: 'images/parts/shock.jpg',
+    alt: 'Amortiguador de automóvil',
+    source: 'https://commons.wikimedia.org/wiki/File:Damper_1.jpg',
+    author:
+      'No machine-readable author provided. TEy~commonswiki assumed (based on copyright claims).',
+    license: 'CC BY-SA 3.0',
+    licenseUrl: 'http://creativecommons.org/licenses/by-sa/3.0/',
+  },
+  'NA-0009': {
+    file: 'images/parts/tieRod.jpeg',
+    alt: 'Terminal de dirección',
+    source: 'https://commons.wikimedia.org/wiki/File:Tie_rod_end.jpeg',
+    author: 'Craig Howell',
+    license: 'CC BY 2.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by/2.0',
+  },
+  'NA-0010': {
+    file: 'images/parts/bearing.jpg',
+    alt: 'Rodamiento de bolas',
+    source: 'https://commons.wikimedia.org/wiki/File:Ball_bearing.jpg',
+    author: 'Solaris2006',
+    license: 'CC BY-SA 3.0',
+    licenseUrl: 'http://creativecommons.org/licenses/by-sa/3.0/',
+  },
+  'NA-0011': {
+    file: 'images/parts/battery.jpg',
+    alt: 'Batería de automóvil',
+    source:
+      'https://commons.wikimedia.org/wiki/File:Lead-acid_automotive_battery,_55_Ah.jpg',
+    author: 'Cjp24',
+    license: 'CC BY-SA 4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0',
+  },
+  'NA-0012': {
+    file: 'images/parts/bulb.jpg',
+    alt: 'Bombilla halógena H4',
+    source:
+      'https://commons.wikimedia.org/wiki/File:H4_Philips_Premium_used.JPG',
+    author: 'MattiPaavola',
+    license: 'CC BY-SA 3.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0',
+  },
+  'NA-0013': {
+    file: 'images/parts/alternator.jpg',
+    alt: 'Alternador de automóvil',
+    source: 'https://commons.wikimedia.org/wiki/File:Alternator.jpg',
+    author: 'Angelsharum',
+    license: 'CC BY-SA 3.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0',
+  },
+  'NA-0014': {
+    file: 'images/parts/clutch.jpg',
+    alt: 'Disco de embrague',
+    source: 'https://commons.wikimedia.org/wiki/File:Clutch_disc.JPG',
+    author: '100yen 11:57, 1 October 2006 (UTC)',
+    license: 'CC BY-SA 3.0',
+    licenseUrl: 'http://creativecommons.org/licenses/by-sa/3.0/',
+  },
+  'NA-0015': {
+    file: 'images/parts/cvJoint.jpg',
+    alt: 'Junta homocinética y semieje',
+    source: 'https://commons.wikimedia.org/wiki/File:CV_joint_half_axle.jpg',
+    author: 'BiH',
+    license: 'Public domain',
+    licenseUrl:
+      'https://commons.wikimedia.org/wiki/File:CV_joint_half_axle.jpg',
+  },
+  'NA-0016': {
+    file: 'images/parts/radiator.jpg',
+    alt: 'Radiador de automóvil',
+    source: 'https://commons.wikimedia.org/wiki/File:Automobile_radiator.jpg',
+    author: 'Autor indicado en la fuente original',
+    license: 'Public domain',
+    licenseUrl:
+      'https://commons.wikimedia.org/wiki/File:Automobile_radiator.jpg',
+  },
+  'NA-0017': {
+    file: 'images/parts/waterPump.jpg',
+    alt: 'Bomba de agua de automóvil',
+    source: 'https://commons.wikimedia.org/wiki/File:Pompa_wody2.jpg',
+    author: 'Maly LOLek',
+    license: 'CC BY-SA 3.0',
+    licenseUrl: 'http://creativecommons.org/licenses/by-sa/3.0/',
+  },
+  'NA-0018': {
+    file: 'images/parts/coolant.jpg',
+    alt: 'Envase de refrigerante',
+    source: 'https://commons.wikimedia.org/wiki/File:Antifreeze.jpg',
+    author: 'dno1967',
+    license: 'CC BY 2.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by/2.0',
+  },
+  'NA-0019': {
+    file: 'images/parts/oil.jpg',
+    alt: 'Envase de aceite de motor',
+    source: 'https://commons.wikimedia.org/wiki/File:Motor_oil.JPG',
+    author:
+      'originally Interiot; retouched by Where next Columbus?; brand name removed by H Padleckas',
+    license: 'Public domain',
+    licenseUrl: 'https://commons.wikimedia.org/wiki/File:Motor_oil.JPG',
+  },
+  'NA-0020': {
+    file: 'images/parts/oil.jpg',
+    alt: 'Envase de aceite de motor',
+    source: 'https://commons.wikimedia.org/wiki/File:Motor_oil.JPG',
+    author:
+      'originally Interiot; retouched by Where next Columbus?; brand name removed by H Padleckas',
+    license: 'Public domain',
+    licenseUrl: 'https://commons.wikimedia.org/wiki/File:Motor_oil.JPG',
+  },
+  'NA-0021': {
+    file: 'images/parts/atf.jpg',
+    alt: 'Envase de fluido de transmisión automática',
+    source:
+      'https://commons.wikimedia.org/wiki/File:ATF_Automatic_transmission_fluid_Dextron_III.JPG',
+    author: 'Andshel',
+    license: 'CC BY-SA 3.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0',
+  },
+  'NA-0022': {
+    file: 'images/parts/wiper.jpg',
+    alt: 'Limpiaparabrisas de automóvil',
+    source:
+      'https://commons.wikimedia.org/wiki/File:Car_windshield_wiper_displayed.jpg',
+    author: 'Shixart1985',
+    license: 'CC BY 2.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by/2.0',
+  },
+  'NA-0023': {
+    file: 'images/parts/cabinFilter.jpg',
+    alt: 'Filtro de cabina',
+    source:
+      'https://commons.wikimedia.org/wiki/File:Autobacs_Pro_Air_conditioner_filter_H-0001.jpg',
+    author:
+      'Photographed by Qurren (talk), with IXY Digital 10 compact digital camera.',
+    license: 'CC BY-SA 3.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0',
+  },
+  'NA-0024': {
+    file: 'images/parts/belt.jpg',
+    alt: 'Correa de accesorios instalada en un motor',
+    source:
+      'https://commons.wikimedia.org/wiki/File:Front_of_engine,_serpentine_belt,_turbos,_waste_gates_and_air_ducts,_(7996565681).jpg',
+    author: 'Bill Abbott',
+    license: 'CC BY-SA 2.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by-sa/2.0',
+  },
+};
