@@ -127,6 +127,11 @@ const server = createServer(async (request, response) => {
     }
     response.writeHead(200, {
       'Content-Type': mime[extname(filename)] || 'application/octet-stream',
+      'Cache-Control': url.pathname.startsWith('/assets/')
+        ? 'public, max-age=31536000, immutable'
+        : extname(filename) === '.html'
+          ? 'no-cache'
+          : 'public, max-age=3600',
       'X-Content-Type-Options': 'nosniff',
     });
     response.end(request.method === 'HEAD' ? undefined : content);
