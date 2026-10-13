@@ -18,6 +18,7 @@ export default function PartPhoto({ product, className = '', eager = false }) {
       src={`${import.meta.env.BASE_URL}${image.file}`}
       alt={`Fotografía de referencia: ${image.alt}`}
       loading={eager ? 'eager' : 'lazy'}
+      fetchPriority={eager ? 'high' : 'auto'}
       decoding="async"
       width="600"
       height="450"
