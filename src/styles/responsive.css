@@ -54,12 +54,18 @@
     gap: 20px;
     padding-block: 23px;
   }
-  nav {
+  .header-inner nav {
+    display: grid;
+    grid-template-columns: auto auto auto;
     width: 100%;
-    gap: 12px;
+    gap: 12px 8px;
     justify-content: space-between;
     font-size: 11px;
-    flex-wrap: wrap;
+  }
+  .header-inner .cart-nav {
+    grid-column: 3;
+    grid-row: 1;
+    white-space: nowrap;
   }
   .nav-contact {
     padding: 7px 9px;
