@@ -1,8 +1,9 @@
-﻿import { useEffect, useState } from 'react';
+﻿import { useEffect, useMemo, useState } from 'react';
 import { useStore } from '../context/StoreContext';
 import { categories } from '../data/categories';
 import { products, vehicles, filterProducts } from '../data/products';
 import ProductCard from './ProductCard';
+const brands = [...new Set(products.map((p) => p.brand))].sort();
 const initialFilters = {
   search: '',
   category: '',
@@ -19,10 +20,12 @@ export default function Products({ category, onCategoryChange }) {
   const [filters, setFilters] = useState(initialFilters);
   const { cart, count, message, updateCart } = useStore();
   const [currentPage, setCurrentPage] = useState(1);
-  const effectiveFilters = { ...filters, category };
-  const visible = filterProducts(products, effectiveFilters);
+  const visible = useMemo(
+    () => filterProducts(products, { ...filters, category }),
+    [filters, category],
+  );
   const selectedVehicle = vehicles.find((v) => v.brand === filters.vehicle);
-  const brands = [...new Set(products.map((p) => p.brand))].sort();
+
   function change(name, value) {
     setFilters((f) => ({
       ...f,
