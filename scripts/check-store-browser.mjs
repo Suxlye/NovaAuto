@@ -110,6 +110,7 @@ try {
     await waitFor(
       `document.querySelector('header a[aria-current="page"]')?.getAttribute('href') === ${JSON.stringify(`#/${page}`)}`,
     );
+    await waitFor(`document.querySelector('main h1')`);
   }
   async function checkImages() {
     await evaluate(
