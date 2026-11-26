@@ -5,10 +5,14 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 
 const base = 'http://127.0.0.1:5175';
+const staticMode = process.env.VITE_STATIC_PREVIEW === 'true';
 const browserPath =
   process.env.BROWSER_PATH ||
   'C:/Program Files/BraveSoftware/Brave-Browser/Application/brave.exe';
 const profile = await mkdtemp(join(tmpdir(), 'novaauto-browser-'));
+const evidence = 'docs/evidencias/responsive';
+await mkdir(evidence, { recursive: true });
+const responsiveResults = [];
 const api = spawn(process.execPath, ['server/index.mjs'], {
   windowsHide: true,
   stdio: 'ignore',
@@ -135,6 +139,64 @@ try {
   await call('Page.navigate', { url: base });
   await waitFor(`document.querySelectorAll('.home-category').length === 8`);
   await checkImages();
+  for (const width of [320, 390, 768, 1440]) {
+    await call('Emulation.setDeviceMetricsOverride', {
+      width,
+      height: 900,
+      deviceScaleFactor: 1,
+      mobile: width < 768,
+    });
+    for (const page of [
+      'inicio',
+      'catalogo',
+      'carrito',
+      'servicios',
+      'nosotros',
+      'contacto',
+    ]) {
+      await route(page);
+      await checkImages();
+      await sleep(150);
+      const dimensions = await evaluate(
+        `({viewport: innerWidth, content: document.documentElement.scrollWidth})`,
+      );
+      assert.ok(
+        dimensions.content <= dimensions.viewport,
+        `${page}: sin desbordamiento a ${width}px`,
+      );
+      const shot = await call('Page.captureScreenshot', {
+        format: 'png',
+        captureBeyondViewport: false,
+      });
+      const file = `${page}-${width}.png`;
+      await writeFile(join(evidence, file), Buffer.from(shot.data, 'base64'));
+      responsiveResults.push({
+        page,
+        width,
+        ...dimensions,
+        file,
+        passed: true,
+      });
+    }
+  }
+  await writeFile(
+    join(evidence, 'resultados.json'),
+    JSON.stringify(
+      {
+        createdAt: new Date().toISOString(),
+        browser: 'Chromium / Brave headless',
+        results: responsiveResults,
+      },
+      null,
+      2,
+    ),
+  );
+  await call('Emulation.setDeviceMetricsOverride', {
+    width: 1440,
+    height: 1000,
+    deviceScaleFactor: 1,
+    mobile: false,
+  });
   await route('catalogo');
   await waitFor(`document.querySelectorAll('.catalog-card').length === 9`);
   await checkImages();
@@ -225,31 +287,52 @@ try {
     'Compra sin desbordamiento móvil',
   );
   await evaluate(`document.querySelector('.checkout-submit').click()`);
-  await waitFor(`document.querySelector('.order-success-mark')`);
-  assert.equal(
-    await evaluate(`document.querySelector('.cart-count').textContent`),
-    '0',
-  );
-  assert.ok(
-    await evaluate(
-      `document.querySelector('.order-page').textContent.includes('Colonia de prueba, calle 2, casa 15')`,
-    ),
-  );
-  assert.ok(
-    await evaluate(
-      `document.querySelector('.order-page').textContent.includes('Pago pendiente al recibir')`,
-    ),
-  );
-  await call('Page.reload');
-  await waitFor(`document.querySelector('.order-success-mark')`);
-  assert.ok(
-    await evaluate(
-      `document.querySelector('.order-page').textContent.includes('Cliente de prueba')`,
-    ),
-  );
-  console.log(
-    'OK: formulario, dirección obligatoria, pedido guardado, confirmación, carrito vaciado y pedido recuperado al recargar.',
-  );
+  if (staticMode) {
+    await waitFor(
+      `document.querySelector('a[href^="https://wa.me/50377256463?text="]')`,
+    );
+    const request = await evaluate(
+      `document.querySelector('a[href^="https://wa.me/50377256463?text="]').href`,
+    );
+    assert.ok(
+      new URL(request).searchParams
+        .get('text')
+        .includes('Colonia de prueba, calle 2, casa 15'),
+    );
+    assert.equal(
+      await evaluate(`document.querySelector('.cart-count').textContent`),
+      '2',
+    );
+    console.log(
+      'OK: solicitud pública por WhatsApp preparada, dirección incluida y carrito conservado. No se envió ningún mensaje.',
+    );
+  } else {
+    await waitFor(`document.querySelector('.order-success-mark')`);
+    assert.equal(
+      await evaluate(`document.querySelector('.cart-count').textContent`),
+      '0',
+    );
+    assert.ok(
+      await evaluate(
+        `document.querySelector('.order-page').textContent.includes('Colonia de prueba, calle 2, casa 15')`,
+      ),
+    );
+    assert.ok(
+      await evaluate(
+        `document.querySelector('.order-page').textContent.includes('Pago pendiente al recibir')`,
+      ),
+    );
+    await call('Page.reload');
+    await waitFor(`document.querySelector('.order-success-mark')`);
+    assert.ok(
+      await evaluate(
+        `document.querySelector('.order-page').textContent.includes('Cliente de prueba')`,
+      ),
+    );
+    console.log(
+      'OK: formulario, dirección obligatoria, pedido guardado, confirmación, carrito vaciado y pedido recuperado al recargar.',
+    );
+  }
   await evaluate(`location.hash='/no-existe'`);
   await waitFor(
     `document.querySelector('main h1')?.textContent === 'Página no encontrada'`,

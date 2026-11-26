@@ -2,6 +2,12 @@
 
 Tienda de repuestos con React y Vite. Incluye páginas de inicio, catálogo, carrito, compra, comprobante de pedido, servicios, nosotros y contacto. Requiere Node.js 24.
 
+**Entrega final:** [índice de los doce entregables](docs/ENTREGA.md), [presentación](docs/PRESENTACION.html) y [formatos del beneficiario](docs/BENEFICIARIO.html).
+
+**Web pública:** https://suxlye.github.io/NovaAuto/ · **Rama de entrega:** `novaauto-store`.
+
+La publicación pública permite preparar solicitudes para enviar por WhatsApp a Mauricio Benitez (+503 7725-6463). El usuario revisa y envía el mensaje; la web no confirma compras ni guarda sus datos en un servidor en esta modalidad. La versión Node.js registra pedidos con SQLite. `render.yaml` permite preparar su alojamiento con disco persistente; no activa un servicio contratado.
+
 ## Ejecutar
 
 ```powershell

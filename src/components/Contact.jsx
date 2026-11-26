@@ -21,20 +21,30 @@
         <div className="contact-details">
           <div>
             <span>Teléfono / WhatsApp</span>
-            <p>Pendiente de confirmar</p>
+            <p>
+              <a
+                href="https://wa.me/50377256463"
+                target="_blank"
+                rel="noreferrer"
+              >
+                +503 7725-6463 · WhatsApp
+              </a>
+            </p>
           </div>
           <div>
-            <span>Dirección</span>
-            <p>Pendiente de confirmar con el negocio</p>
+            <span>Persona de contacto</span>
+            <p>Mauricio Benitez</p>
           </div>
           <div>
-            <span>Horario de atención</span>
-            <p>Pendiente de confirmar</p>
+            <span>Atención y retiro</span>
+            <p>
+              Coordina ubicación y horario por WhatsApp antes de visitarnos.
+            </p>
           </div>
           <p className="contact-note">
-            Los canales de contacto se habilitarán al recibir los datos
-            oficiales del negocio. Mientras tanto, puedes descargar tu lista de
-            repuestos desde el carrito.
+            Consulta compatibilidad, disponibilidad y entrega con Mauricio.
+            Puedes descargar tu lista de repuestos desde el carrito y
+            compartirla por WhatsApp.
           </p>
         </div>
       </div>

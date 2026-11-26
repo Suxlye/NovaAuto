@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: novaauto-repuestos
+    runtime: node
+    branch: novaauto-store
+    plan: starter
+    buildCommand: npm ci && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: 24.21.0
+      - key: API_HOST
+        value: 0.0.0.0
+      - key: ORDER_DATA_DIRECTORY
+        value: /var/data/novaauto
+    disk:
+      name: novaauto-orders
+      mountPath: /var/data
+      sizeGB: 1

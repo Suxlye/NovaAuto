@@ -1,0 +1,198 @@
+{
+  "createdAt": "2026-11-26T05:22:52.590Z",
+  "browser": "Chromium / Brave headless",
+  "results": [
+    {
+      "page": "inicio",
+      "width": 320,
+      "viewport": 320,
+      "content": 320,
+      "file": "inicio-320.png",
+      "passed": true
+    },
+    {
+      "page": "catalogo",
+      "width": 320,
+      "viewport": 320,
+      "content": 320,
+      "file": "catalogo-320.png",
+      "passed": true
+    },
+    {
+      "page": "carrito",
+      "width": 320,
+      "viewport": 320,
+      "content": 320,
+      "file": "carrito-320.png",
+      "passed": true
+    },
+    {
+      "page": "servicios",
+      "width": 320,
+      "viewport": 320,
+      "content": 320,
+      "file": "servicios-320.png",
+      "passed": true
+    },
+    {
+      "page": "nosotros",
+      "width": 320,
+      "viewport": 320,
+      "content": 320,
+      "file": "nosotros-320.png",
+      "passed": true
+    },
+    {
+      "page": "contacto",
+      "width": 320,
+      "viewport": 320,
+      "content": 320,
+      "file": "contacto-320.png",
+      "passed": true
+    },
+    {
+      "page": "inicio",
+      "width": 390,
+      "viewport": 390,
+      "content": 390,
+      "file": "inicio-390.png",
+      "passed": true
+    },
+    {
+      "page": "catalogo",
+      "width": 390,
+      "viewport": 390,
+      "content": 390,
+      "file": "catalogo-390.png",
+      "passed": true
+    },
+    {
+      "page": "carrito",
+      "width": 390,
+      "viewport": 390,
+      "content": 390,
+      "file": "carrito-390.png",
+      "passed": true
+    },
+    {
+      "page": "servicios",
+      "width": 390,
+      "viewport": 390,
+      "content": 390,
+      "file": "servicios-390.png",
+      "passed": true
+    },
+    {
+      "page": "nosotros",
+      "width": 390,
+      "viewport": 390,
+      "content": 390,
+      "file": "nosotros-390.png",
+      "passed": true
+    },
+    {
+      "page": "contacto",
+      "width": 390,
+      "viewport": 390,
+      "content": 390,
+      "file": "contacto-390.png",
+      "passed": true
+    },
+    {
+      "page": "inicio",
+      "width": 768,
+      "viewport": 768,
+      "content": 753,
+      "file": "inicio-768.png",
+      "passed": true
+    },
+    {
+      "page": "catalogo",
+      "width": 768,
+      "viewport": 768,
+      "content": 753,
+      "file": "catalogo-768.png",
+      "passed": true
+    },
+    {
+      "page": "carrito",
+      "width": 768,
+      "viewport": 768,
+      "content": 768,
+      "file": "carrito-768.png",
+      "passed": true
+    },
+    {
+      "page": "servicios",
+      "width": 768,
+      "viewport": 768,
+      "content": 768,
+      "file": "servicios-768.png",
+      "passed": true
+    },
+    {
+      "page": "nosotros",
+      "width": 768,
+      "viewport": 768,
+      "content": 768,
+      "file": "nosotros-768.png",
+      "passed": true
+    },
+    {
+      "page": "contacto",
+      "width": 768,
+      "viewport": 768,
+      "content": 768,
+      "file": "contacto-768.png",
+      "passed": true
+    },
+    {
+      "page": "inicio",
+      "width": 1440,
+      "viewport": 1440,
+      "content": 1425,
+      "file": "inicio-1440.png",
+      "passed": true
+    },
+    {
+      "page": "catalogo",
+      "width": 1440,
+      "viewport": 1440,
+      "content": 1425,
+      "file": "catalogo-1440.png",
+      "passed": true
+    },
+    {
+      "page": "carrito",
+      "width": 1440,
+      "viewport": 1440,
+      "content": 1440,
+      "file": "carrito-1440.png",
+      "passed": true
+    },
+    {
+      "page": "servicios",
+      "width": 1440,
+      "viewport": 1440,
+      "content": 1440,
+      "file": "servicios-1440.png",
+      "passed": true
+    },
+    {
+      "page": "nosotros",
+      "width": 1440,
+      "viewport": 1440,
+      "content": 1440,
+      "file": "nosotros-1440.png",
+      "passed": true
+    },
+    {
+      "page": "contacto",
+      "width": 1440,
+      "viewport": 1440,
+      "content": 1440,
+      "file": "contacto-1440.png",
+      "passed": true
+    }
+  ]
+}

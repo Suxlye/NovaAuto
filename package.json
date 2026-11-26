@@ -9,6 +9,8 @@
     "server": "node server/index.mjs",
     "start": "node server/index.mjs",
     "test:checkout": "node --test tests/checkout.test.mjs",
+    "test:browser": "node scripts/check-store-browser.mjs",
+    "audit": "node scripts/audit.mjs",
     "build": "vite build",
     "preview": "vite preview",
     "format": "prettier --write .",
@@ -20,6 +22,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^6.1.2",
+    "lighthouse": "^13.6.0",
     "prettier": "^3.9.10",
     "vite": "^8.3.4"
   }

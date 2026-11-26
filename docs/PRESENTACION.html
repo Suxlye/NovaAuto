@@ -1,0 +1,359 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Defensa final · NovaAuto</title>
+    <style>
+      :root {
+        font-family: Arial, sans-serif;
+        color: #f5f7f7;
+        background: #132128;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+      }
+      main {
+        max-width: 1200px;
+        margin: auto;
+        padding: 32px;
+      }
+      section {
+        display: none;
+        min-height: 78vh;
+        padding: clamp(24px, 6vw, 80px);
+        border: 1px solid #43515a;
+        border-radius: 16px;
+        background: linear-gradient(130deg, #1d303a, #132128);
+      }
+      section.active {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      h1 {
+        font-size: clamp(48px, 8vw, 96px);
+        letter-spacing: -0.05em;
+        line-height: 1.05;
+        margin: 20px 0;
+      }
+      h2 {
+        font-size: clamp(32px, 5vw, 60px);
+        line-height: 1.1;
+        margin: 18px 0 30px;
+      }
+      p,
+      li {
+        font-size: clamp(18px, 2.2vw, 26px);
+        line-height: 1.6;
+      }
+      li {
+        margin: 10px 0;
+      }
+      .tag {
+        font-size: 14px;
+        letter-spacing: 0.18em;
+        color: #ffac90;
+        text-transform: uppercase;
+      }
+      .accent {
+        color: #ff8969;
+      }
+      a {
+        color: #ffac90;
+      }
+      nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 20px;
+        gap: 16px;
+      }
+      button {
+        border: 1px solid #667680;
+        border-radius: 6px;
+        color: white;
+        background: #243c48;
+        padding: 12px 20px;
+        font-size: 16px;
+        cursor: pointer;
+      }
+      button:focus-visible,
+      a:focus-visible {
+        outline: 3px solid #ff8969;
+      }
+      small {
+        color: #c7d2d7;
+      }
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+      }
+      .card {
+        padding: 20px;
+        background: #243b46;
+        border-radius: 8px;
+      }
+      .card b {
+        display: block;
+        font-size: 40px;
+        color: #ff8969;
+      }
+      img {
+        max-width: 100%;
+        max-height: 440px;
+        object-fit: contain;
+      }
+      .notes {
+        font-size: 16px;
+        color: #c7d2d7;
+      }
+      @media (max-width: 700px) {
+        main {
+          padding: 16px;
+        }
+        .grid {
+          grid-template-columns: 1fr;
+        }
+        .card b {
+          font-size: 28px;
+        }
+      }
+      @media print {
+        body {
+          background: white;
+          color: #132128;
+        }
+        main {
+          padding: 0;
+          max-width: none;
+        }
+        section,
+        section.active {
+          display: flex;
+          min-height: 180mm;
+          background: white;
+          border: 0;
+          border-radius: 0;
+          break-after: page;
+          page-break-after: always;
+          padding: 15mm;
+        }
+        nav {
+          display: none;
+        }
+        .tag,
+        .accent,
+        a,
+        .card b {
+          color: #b73220;
+        }
+        .card {
+          background: #eee;
+        }
+        .notes,
+        small {
+          color: #44515b;
+        }
+        @page {
+          size: A4 landscape;
+          margin: 10mm;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <section class="active">
+        <p class="tag">Proyecto web · Defensa final · Noviembre 2026</p>
+        <h1>Nova<span class="accent">Auto</span><br />Repuestos.</h1>
+        <p>
+          Del catálogo al pedido, con una experiencia adaptable a cada pantalla.
+        </p>
+        <p class="notes">
+          Contacto del proyecto: Mauricio Benitez · +503 7725-6463
+        </p>
+      </section>
+      <section>
+        <p class="tag">Necesidad y objetivo</p>
+        <h2>Encontrar la pieza.<br />Preparar la compra.</h2>
+        <p>
+          Propuesta académica para organizar repuestos, facilitar la búsqueda
+          por vehículo y reducir errores al preparar una cotización.
+        </p>
+        <p class="notes">
+          La necesidad se plantea como hipótesis de diseño; la validación
+          comercial se realiza con el beneficiario.
+        </p>
+      </section>
+      <section>
+        <p class="tag">Alcance implementado</p>
+        <h2>Una tienda con un recorrido claro.</h2>
+        <div class="grid">
+          <div class="card">
+            <b>Buscar</b>
+            <p>Categoría, marca, vehículo, modelo, año y precio.</p>
+          </div>
+          <div class="card">
+            <b>Comparar</b>
+            <p>Ordenar, revisar disponibilidad y preparar carrito.</p>
+          </div>
+          <div class="card">
+            <b>Solicitar</b>
+            <p>Cotización descargable y pedidos con servidor.</p>
+          </div>
+        </div>
+      </section>
+      <section>
+        <p class="tag">Diseño y accesibilidad</p>
+        <h2>Una identidad coherente.</h2>
+        <ul>
+          <li>Paleta oscura, acento naranja y fotografías de referencia.</li>
+          <li>
+            Navegación consistente, campos etiquetados y estados de error.
+          </li>
+          <li>Diseño responsive y enlace para saltar al contenido.</li>
+          <li>Wireframes y propuesta UX/UI incluidos en el repositorio.</li>
+        </ul>
+      </section>
+      <section>
+        <p class="tag">Arquitectura</p>
+        <h2>Cliente, API y persistencia.</h2>
+        <div class="grid">
+          <div class="card">
+            <b>React</b>
+            <p>Interfaz, rutas y carrito local.</p>
+          </div>
+          <div class="card">
+            <b>Node.js</b>
+            <p>Validación, precios y registro del pedido.</p>
+          </div>
+          <div class="card">
+            <b>SQLite</b>
+            <p>Inventario y comprobantes persistentes.</p>
+          </div>
+        </div>
+        <p class="notes">
+          Sin cobro electrónico. El pago queda pendiente al recibir o retirar.
+        </p>
+      </section>
+      <section>
+        <p class="tag">Demostración · 3 minutos</p>
+        <h2>Recorrido de una compra.</h2>
+        <ol>
+          <li>Buscar y filtrar una pieza en el catálogo.</li>
+          <li>Agregarla, ajustar cantidades y descargar cotización.</li>
+          <li>
+            En servidor local: validar datos, seleccionar domicilio y confirmar.
+          </li>
+          <li>Mostrar comprobante, recargar y verificar persistencia.</li>
+        </ol>
+      </section>
+      <section>
+        <p class="tag">Calidad verificable</p>
+        <h2>Pruebas y evidencias.</h2>
+        <div class="grid">
+          <div class="card">
+            <b>9</b>
+            <p>Pruebas de validación, pedidos y persistencia.</p>
+          </div>
+          <div class="card">
+            <b>4</b>
+            <p>Anchos: 320, 390, 768 y 1440 px.</p>
+          </div>
+          <div class="card">
+            <b>2</b>
+            <p>Informes Lighthouse: móvil y escritorio.</p>
+          </div>
+        </div>
+        <p>
+          Ver
+          <a href="evidencias/lighthouse/resumen.json">resultados Lighthouse</a>
+          y
+          <a href="evidencias/responsive/resultados.json"
+            >resultados responsive</a
+          >.
+        </p>
+      </section>
+      <section>
+        <p class="tag">Publicación y código</p>
+        <h2>Entrega reproducible.</h2>
+        <p>
+          <a href="https://suxlye.github.io/NovaAuto/"
+            >Abrir demostración pública</a
+          ><br /><a
+            href="https://github.com/Suxlye/NovaAuto/tree/novaauto-store"
+            >Abrir código fuente en GitHub</a
+          >
+        </p>
+        <p>
+          GitHub Actions valida y publica la interfaz. La versión completa se
+          ejecuta con Node.js y dispone de configuración para alojar el servidor
+          con disco persistente.
+        </p>
+        <p class="notes">
+          GitHub Pages permite catálogo, carrito, cotización y solicitudes por
+          WhatsApp. El registro persistente de pedidos requiere el servidor.
+        </p>
+      </section>
+      <section>
+        <p class="tag">Revisión y aceptación</p>
+        <h2>La validación necesita al beneficiario.</h2>
+        <p>
+          Se prepararon un acta de revisión, registro de cambios, encuesta y
+          acta de entrega para Mauricio Benitez.
+        </p>
+        <p>
+          La reunión, las respuestas y la firma están pendientes de realización.
+          El catálogo y las compatibilidades requieren validación comercial.
+        </p>
+        <p>
+          <a href="BENEFICIARIO.html">Abrir formatos de revisión y entrega</a>
+        </p>
+      </section>
+      <section>
+        <p class="tag">Cierre de defensa</p>
+        <h2>Una base funcional.<br />Una entrega verificable.</h2>
+        <p>
+          Código completo, pruebas reproducibles, evidencias técnicas y
+          documentación de operación.
+        </p>
+        <p class="notes">
+          Siguientes pasos: validar inventario y datos comerciales, activar
+          alojamiento del servidor y recoger la aceptación real.
+        </p>
+        <p class="accent">Preguntas y demostración.</p>
+      </section>
+      <nav aria-label="Controles de presentación">
+        <button id="prev">Anterior</button
+        ><span id="counter" aria-live="polite"></span
+        ><button id="next">Siguiente</button
+        ><button onclick="window.print()">Imprimir / PDF</button>
+      </nav>
+    </main>
+    <script>
+      const slides = [...document.querySelectorAll('section')];
+      let current = 0;
+      function show(n) {
+        current = Math.max(0, Math.min(slides.length - 1, n));
+        slides.forEach((s, i) => s.classList.toggle('active', i === current));
+        document.querySelector('#counter').textContent =
+          `${current + 1} / ${slides.length}`;
+        document.querySelector('#prev').disabled = current === 0;
+        document.querySelector('#next').disabled =
+          current === slides.length - 1;
+      }
+      document.querySelector('#prev').onclick = () => show(current - 1);
+      document.querySelector('#next').onclick = () => show(current + 1);
+      addEventListener('keydown', (e) => {
+        if (e.key === 'ArrowRight' || e.key === 'PageDown') show(current + 1);
+        if (e.key === 'ArrowLeft' || e.key === 'PageUp') show(current - 1);
+      });
+      show(0);
+    </script>
+  </body>
+</html>

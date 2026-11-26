@@ -1,6 +1,7 @@
 ﻿import { useEffect, useRef, useState } from 'react';
 import { useStore } from '../context/StoreContext';
-import { money } from '../data/products';
+import { money, products } from '../data/products';
+import { whatsappRequest } from '../../shared/whatsapp';
 import { departments, validateOrderInput } from '../../shared/checkout';
 import { requestApi, saveOrderAccess } from '../services/orders';
 const emptyForm = {
@@ -14,6 +15,7 @@ const emptyForm = {
   reference: '',
   note: '',
 };
+const staticPreview = import.meta.env.VITE_STATIC_PREVIEW === 'true';
 function Field({ id, label, error, ...props }) {
   return (
     <div className={`checkout-field ${props.wide ? 'field-wide' : ''}`}>
@@ -43,9 +45,17 @@ export default function CheckoutPage() {
   const [retry, setRetry] = useState(0);
   const [error, setError] = useState('');
   const [busy, setBusy] = useState(false);
+  const [whatsappUrl, setWhatsappUrl] = useState('');
   const intent = useRef(null);
   const submitLock = useRef(false);
   useEffect(() => {
+    if (staticPreview) {
+      setConfig({
+        deliveryFeeCents: null,
+        inventory: Object.fromEntries(products.map((p) => [p.id, p.stock])),
+      });
+      return;
+    }
     const controller = new AbortController();
     setConfigError('');
     requestApi('/api/checkout-config', { signal: controller.signal })
@@ -59,6 +69,7 @@ export default function CheckoutPage() {
     setForm((current) => ({ ...current, [name]: value }));
     setFields((current) => ({ ...current, [name]: '' }));
     setError('');
+    setWhatsappUrl('');
   }
   const shippingCents =
     form.delivery === 'pickup' ? 0 : config?.deliveryFeeCents;
@@ -86,6 +97,10 @@ export default function CheckoutPage() {
     } catch (e) {
       setFields(e.fields);
       setError(e.message);
+      return;
+    }
+    if (staticPreview) {
+      setWhatsappUrl(whatsappRequest(payload, products));
       return;
     }
     const signature = JSON.stringify(payload);
@@ -150,6 +165,8 @@ export default function CheckoutPage() {
         <p>
           Elige cómo recibir tus repuestos y revisa los datos antes de
           confirmar.
+          {staticPreview &&
+            ' En esta versión, prepara tu solicitud y envíala por WhatsApp a Mauricio. El negocio confirmará precios y existencias; tus datos no se guardan en un servidor de esta web.'}
         </p>
       </div>
       <form onSubmit={submit} className="checkout-layout" noValidate>
@@ -404,11 +421,33 @@ export default function CheckoutPage() {
             className="catalog-button checkout-submit"
             disabled={busy || !config || insufficient.length > 0}
           >
-            {busy ? 'Guardando pedido…' : 'Confirmar pedido'}
+            {busy
+              ? 'Guardando pedido…'
+              : staticPreview
+                ? 'Preparar solicitud por WhatsApp'
+                : 'Confirmar pedido'}
           </button>
+          {whatsappUrl && (
+            <div role="status" className="checkout-note">
+              <p>
+                Solicitud preparada. Abre WhatsApp y pulsa enviar para compartir
+                estos datos con Mauricio. El carrito se conserva hasta que
+                confirmes la compra con el negocio.
+              </p>
+              <a
+                className="button"
+                href={whatsappUrl}
+                target="_blank"
+                rel="noreferrer"
+              >
+                Abrir WhatsApp y revisar solicitud
+              </a>
+            </div>
+          )}
           <p className="checkout-note">
-            Al confirmar se registra tu pedido. La tienda debe confirmar
-            compatibilidad, disponibilidad y entrega.
+            {staticPreview
+              ? 'La solicitud se comparte únicamente cuando tú la envías desde WhatsApp. No registra un pedido ni realiza un cobro en esta web.'
+              : 'Al confirmar se registra tu pedido. La tienda debe confirmar compatibilidad, disponibilidad y entrega.'}
           </p>
         </aside>
       </form>

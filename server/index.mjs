@@ -15,7 +15,7 @@ const dataDirectory = process.env.ORDER_DATA_DIRECTORY
   ? resolve(process.env.ORDER_DATA_DIRECTORY)
   : resolve(root, '.data');
 await mkdir(dataDirectory, { recursive: true });
-const port = Number(process.env.API_PORT || 3001);
+const port = Number(process.env.PORT || process.env.API_PORT || 3001);
 const fee = process.env.DELIVERY_FEE_CENTS;
 if (fee !== undefined && !/^\d+$/.test(fee))
   throw new Error('DELIVERY_FEE_CENTS debe ser un entero no negativo.');
@@ -65,6 +65,8 @@ const limits = new Map();
 const server = createServer(async (request, response) => {
   try {
     const url = new URL(request.url, 'http://localhost');
+    if (request.method === 'GET' && url.pathname === '/api/health')
+      return json(response, 200, { status: 'ok' });
     if (request.method === 'GET' && url.pathname === '/api/checkout-config')
       return json(response, 200, {
         deliveryFeeCents,
@@ -147,8 +149,11 @@ const server = createServer(async (request, response) => {
     });
   }
 });
-server.listen(port, process.env.API_HOST || '127.0.0.1', () =>
-  console.log(`NovaAuto: pedidos disponibles en http://localhost:${port}`),
+server.listen(
+  port,
+  process.env.API_HOST || (process.env.PORT ? '0.0.0.0' : '127.0.0.1'),
+  () =>
+    console.log(`NovaAuto: pedidos disponibles en http://localhost:${port}`),
 );
 function stop() {
   server.close(() => {

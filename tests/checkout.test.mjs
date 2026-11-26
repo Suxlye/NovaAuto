@@ -6,6 +6,8 @@ import { join } from 'node:path';
 import { tmpdir } from 'node:os';
 import { createOrderStore } from '../server/store.mjs';
 import { validateOrderInput } from '../shared/checkout.js';
+import { whatsappRequest } from '../shared/whatsapp.js';
+import { products } from '../src/data/products.js';
 const input = (changes = {}) => ({
   customer: {
     name: 'Cliente de prueba',
@@ -22,6 +24,24 @@ const homeAddress = {
   street: 'Colonia de prueba, calle 2, casa 15',
   reference: 'Frente al parque',
 };
+test('solicitud WhatsApp contiene contacto, total de catálogo y dirección validada', () => {
+  const url = new URL(
+    whatsappRequest(
+      validateOrderInput(input({ delivery: 'home', address: homeAddress })),
+      products,
+    ),
+  );
+  assert.equal(url.origin + url.pathname, 'https://wa.me/50377256463');
+  const message = url.searchParams.get('text');
+  assert.ok(message.includes('USD 77.00'));
+  assert.ok(message.includes(homeAddress.street));
+  assert.ok(message.includes('no confirma una compra'));
+  const pickup = new URL(
+    whatsappRequest(validateOrderInput(input()), products),
+  ).searchParams.get('text');
+  assert.ok(pickup.includes('Retiro: coordinar'));
+  assert.ok(!pickup.includes(homeAddress.street));
+});
 test('domicilio exige dirección; retiro no la guarda', () => {
   assert.throws(
     () => validateOrderInput(input({ delivery: 'home' })),
