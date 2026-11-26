@@ -5,20 +5,20 @@ Contacto indicado por el responsable del proyecto: **Mauricio Benitez · +503 77
 
 ## Índice de los doce entregables
 
-| Requisito                    | Archivo o acceso                                                         | Estado / alcance                                                                                                            |
-| ---------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
-| 1. Sitio funcional           | `src/`, `server/`, `shared/`                                             | Catálogo, filtros, carrito, cotización y compra con Node.js/SQLite.                                                         |
-| 2. URL pública               | https://suxlye.github.io/NovaAuto/                                       | Publicación de interfaz mediante GitHub Actions; verificar despliegue. Permite solicitudes por WhatsApp; no ejecuta SQLite. |
-| 3. Repositorio final         | https://github.com/Suxlye/NovaAuto/tree/novaauto-store                   | Rama de entrega `novaauto-store`.                                                                                           |
-| 4. Código completo           | Repositorio, `package-lock.json`, `.env.example`                         | Incluye cliente, API, pruebas y configuración de despliegue.                                                                |
-| 5. Evidencias del proceso    | `PROCESO.md`, historial Git, `PROPUESTA-UX-UI.md`, `/public/wireframes/` | Historial verificable y diseño inicial.                                                                                     |
-| 6. Lighthouse                | `evidencias/lighthouse/`                                                 | Informes HTML y JSON, móvil y escritorio, sobre compilación local.                                                          |
-| 7. Responsive                | `evidencias/responsive/`                                                 | Capturas y resultados a 320, 390, 768 y 1440 píxeles.                                                                       |
-| 8. Revisión con beneficiario | `BENEFICIARIO.html`                                                      | Formato pendiente de reunión real.                                                                                          |
-| 9. Cambios solicitados       | `BENEFICIARIO.html`                                                      | Registro listo para documentar solicitudes reales.                                                                          |
-| 10. Evidencia de entrega     | `BENEFICIARIO.html`                                                      | Acta pendiente de aceptación y firma.                                                                                       |
-| 11. Encuesta                 | `BENEFICIARIO.html`                                                      | Encuesta pendiente de respuesta del beneficiario.                                                                           |
-| 12. Presentación             | `PRESENTACION.html`                                                      | Diapositivas para defensa; abrir en navegador y usar flechas.                                                               |
+| Requisito                    | Archivo o acceso                                                         | Estado / alcance                                                                                                 |
+| ---------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| 1. Sitio funcional           | `src/`, `server/`, `shared/`                                             | Catálogo, filtros, carrito, cotización y compra con Node.js/SQLite.                                              |
+| 2. URL pública               | https://suxlye.github.io/NovaAuto/                                       | Publicación verificada mediante GitHub Actions y navegador. Permite solicitudes por WhatsApp; no ejecuta SQLite. |
+| 3. Repositorio final         | https://github.com/Suxlye/NovaAuto/tree/novaauto-store                   | Rama de entrega `novaauto-store`.                                                                                |
+| 4. Código completo           | Repositorio, `package-lock.json`, `.env.example`                         | Incluye cliente, API, pruebas y configuración de despliegue.                                                     |
+| 5. Evidencias del proceso    | `PROCESO.md`, historial Git, `PROPUESTA-UX-UI.md`, `/public/wireframes/` | Historial verificable y diseño inicial.                                                                          |
+| 6. Lighthouse                | `evidencias/lighthouse/`                                                 | Informes HTML y JSON, móvil y escritorio, sobre compilación local.                                               |
+| 7. Responsive                | `evidencias/responsive/`                                                 | Capturas y resultados a 320, 390, 768 y 1440 píxeles.                                                            |
+| 8. Revisión con beneficiario | `BENEFICIARIO.html`                                                      | Formato pendiente de reunión real.                                                                               |
+| 9. Cambios solicitados       | `BENEFICIARIO.html`                                                      | Registro listo para documentar solicitudes reales.                                                               |
+| 10. Evidencia de entrega     | `BENEFICIARIO.html`                                                      | Acta pendiente de aceptación y firma.                                                                            |
+| 11. Encuesta                 | `BENEFICIARIO.html`                                                      | Encuesta pendiente de respuesta del beneficiario.                                                                |
+| 12. Presentación             | `PRESENTACION.html`                                                      | HTML interactivo y PDF de 10 diapositivas.                                                                       |
 
 ## Ejecutar la versión completa
 
