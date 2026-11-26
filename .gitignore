@@ -1,0 +1,10 @@
+node_modules/
+.data/
+scripts/image-research/
+dist/
+.vite/
+*.local
+.env
+.env.*
+!.env.example
+.tmp/
